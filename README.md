@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an undergraduate in IIT Bombay, majoring in Aerospace Engineering.
+I am an undergraduate at IIT Bombay, majoring in Aerospace Engineering.
 - 🔭 I’m currently working on parallel algorithms.
 - 🤔 I’m looking for help with Vortex Ring simulation.
 - 📫 How to reach me: harshbaldwa@gmail.com
