@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Harshvardhan! 👋
 
 <!--
 **harshbaldwa/harshbaldwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### 📊 Github Stats
-<a href='https://github.com/harshbaldwa/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/harshbaldwa/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/harshbaldwa/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+- 🔭 I’m currently working on fully parallel Fast Multipole methods on GPUs
