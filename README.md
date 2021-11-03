@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am an undergraduate at IIT Bombay, majoring in Aerospace Engineering.
-- 🔭 I’m currently working on parallel algorithms.
-- 🤔 I’m looking for help with Vortex Ring simulation.
+- 🔭 I’m currently working on implementing Parallel Fast Multipole methods.
 - 📫 How to reach me: harshbaldwa@gmail.com
 - 🏖 Hobbies: [Photography](https://www.instagram.com/vicks._clicks/), Squash, TT, Horseback Riding
