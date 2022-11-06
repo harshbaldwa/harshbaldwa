@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an undergraduate at IIT Bombay, majoring in Aerospace Engineering.
-- 🔭 I’m currently working on implementing Parallel Fast Multipole methods.
+Currently a grad student at Georgia Tech, majoring in Computational Science and Engineering.
 - 📫 How to reach me: harshbaldwa@gmail.com
-- 🏖 Hobbies: [Photography](https://www.instagram.com/vicks._clicks/), Squash, TT, Horseback Riding
